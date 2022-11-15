@@ -1,0 +1,67 @@
+
+
+.title{
+  display: flex;
+  justify-content: center;
+}
+
+a{
+  font-size: 27px;
+}
+
+.tabs {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+  padding: 15px;
+  border-height: 100vw;
+}
+
+.mission {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  border-top: solid;
+  border-bottom: solid;
+  border-width: .7px;
+  margin-bottom: 40px;
+  padding: 12px;
+}
+
+#quote {
+ font-size: 20px;
+ text-align: center;
+ padding: 20px;
+}
+
+.diamond {
+  height: 25px;
+  width: 30px;
+}
+
+.grid grid-cols-3 u-gap-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardParagraph {
+  padding: 20px;
+}
+
+#myVideo {
+  width: 100vw;
+  margin-top: -3em;
+  object-fit: hidden;
+}
+
+.banner{
+  height: 200px;
+  overflow: hidden;
+}
+
+
+
+
+
